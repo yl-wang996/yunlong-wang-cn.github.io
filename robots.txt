@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yunlong-wang.github.io/sitemap.xml
+Sitemap: https://yunlong-wang-cn.github.io/sitemap.xml
